@@ -1,0 +1,2 @@
+3.	Launch EC2 Instances:
+•	Launch EC2 instances in each VPC to act as test servers.
