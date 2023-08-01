@@ -1,0 +1,2 @@
+2.	Create subnets, Set up Internet Gateways and Route Tables:
+•	Configure internet gateways and route tables to enable internet access for the VPCs.
