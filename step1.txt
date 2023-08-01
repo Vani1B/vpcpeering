@@ -1,0 +1,3 @@
+
+1.	Create Two VPCs:
+•	Set up two VPCs (VPC-A and VPC-B) with non-overlapping CIDR blocks.
