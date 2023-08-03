@@ -1,0 +1,3 @@
+5.	Configure Security Groups 
+•	Configure security groups to allow traffic between the instances in VPC-A and VPC-B.
+

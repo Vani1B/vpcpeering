@@ -1,0 +1,2 @@
+4.	Establish VPC Peering:
+•	Create VPC peering between VPC-A and VPC-B.
