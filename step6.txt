@@ -1,0 +1,2 @@
+ Test Connectivity:
+ Test connectivity between instances in both VPCs to ensure connectivity is working correctly
